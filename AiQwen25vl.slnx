@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Nucleo/">
+    <Project Path="AiQwen25vl.Aplicacao/AiQwen25vl.Aplicacao.csproj" />
+  </Folder>
+  <Project Path="AiQwen25vl.Api/AiQwen25vl.Api.csproj" />
+</Solution>
