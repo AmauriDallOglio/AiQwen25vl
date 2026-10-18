@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\AiQwen25vl.Aplicacao\AiQwen25vl.Aplicacao.csproj" />
   </ItemGroup>
 
 </Project>
